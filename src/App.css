@@ -1,0 +1,13 @@
+#root {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    flex-grow: 1;
+    background-color: lightslategray;
+}
+
+.App {
+    display: flex;
+    min-height: 100svh;
+    justify-content: center;
+}
